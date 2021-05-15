@@ -9,6 +9,8 @@ In this lesson, we will learn how to make query from a list of document(reports)
 
 
 Prerequests
+
+
 pip install cdqa
 Make sure to create a new directory and new environment
 Please be aware that model fine-tuning should be performed using GPU as the BERT model is too large to be trained with CPU. use GCP
